@@ -56,6 +56,10 @@ Susan, Chris P., Sarah, Jackson, Aaron, Ricky
 https://github.com/JakMcCarthy/Techster_Blogs
 
 ## Heroku Link
-https://salty-wildwood-18011.herokuapp.com/
+https://techsterblogs.herokuapp.com/
 
 ## Screenshots
+
+    ![](../../../Pictures/Screenshots/Screenshot%20(159).png)
+
+    ![](../../../Pictures/Screenshots/Screenshot%20(160).png)
