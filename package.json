@@ -1,5 +1,5 @@
 {
-  "name": "tech-blog",
+  "name": "techster-blogs",
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Chrisp1993/tech-blog.git"
+    "url": "git+https://github.com/JakMcCarthy/Techster_Blogs.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Chrisp1993/tech-blog/issues"
+    "url": "https://github.com/JakMcCarthy/Techster_Blogs/issues"
   },
-  "homepage": "https://github.com/Chrisp1993/tech-blog#readme",
+  "homepage": "https://github.com/JakMcCarthy/Techster_Blogs#readme",
   "dependencies": {
     "bcrypt": "^5.0.1",
     "connect-session-sequelize": "^7.1.5",
